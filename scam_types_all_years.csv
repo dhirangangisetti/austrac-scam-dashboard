@@ -1,0 +1,25 @@
+year,scam_type,scamwatch_m,total_m
+2022,Investment,377.1,1500.0
+2022,Payment redirection,16.2,229.0
+2022,Romance,40.6,142.0
+2022,Phishing,24.6,24.6
+2022,Remote access,21.7,21.7
+2022,Other,88.8,1182.7
+2023,Investment,293.8,1300.0
+2023,Payment redirection,16.8,232.0
+2023,Romance,33.9,201.1
+2023,Phishing,11.3,11.3
+2023,Remote access,19.5,256.0
+2023,Other,101.5,739.6
+2024,Investment,192.3,945.0
+2024,Payment redirection,23.7,156.8
+2024,Romance,9.5,152.6
+2024,Phishing,7.6,106.0
+2024,Remote access,20.5,84.5
+2024,Other,65.2,582.3
+2025,Investment,172.2,837.7
+2025,Payment redirection,12.2,166.8
+2025,Romance,28.7,139.9
+2025,Phishing,31.1,97.6
+2025,Remote access,4.8,69.9
+2025,Other,85.9,872.1
