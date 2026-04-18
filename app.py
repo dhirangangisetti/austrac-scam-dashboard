@@ -72,7 +72,7 @@ with col1:
     st.metric(
         label="2025 Combined Losses",
         value=f"${latest['total_losses_b']:.2f}B",
-        delta="↑ 7.8% vs 2024",,
+        delta="↑ 7.8% vs 2024",
         delta_color="inverse"
     )
 
